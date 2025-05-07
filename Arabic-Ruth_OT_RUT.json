@@ -892,9 +892,8 @@
       "pdp": "subs",
       "freq_lex": 864,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -919,9 +918,8 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -946,9 +944,8 @@
       "pdp": "nmpr",
       "freq_lex": 21,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -996,9 +993,8 @@
       "pdp": "subs",
       "freq_lex": 864,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1023,9 +1019,8 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1073,9 +1068,8 @@
       "pdp": "nmpr",
       "freq_lex": 4,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1123,9 +1117,8 @@
       "pdp": "nmpr",
       "freq_lex": 3,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1200,9 +1193,8 @@
       "pdp": "nmpr",
       "freq_lex": 41,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1227,9 +1219,8 @@
       "pdp": "nmpr",
       "freq_lex": 819,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1327,9 +1318,8 @@
       "pdp": "nmpr",
       "freq_lex": 180,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1477,9 +1467,8 @@
       "pdp": "nmpr",
       "freq_lex": 6,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1527,9 +1516,8 @@
       "pdp": "nmpr",
       "freq_lex": 21,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1604,9 +1592,8 @@
       "pdp": "prps",
       "freq_lex": 485,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1654,9 +1641,8 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1777,9 +1763,8 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1958,9 +1943,8 @@
       "pdp": "subs",
       "freq_lex": 864,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -2461,7 +2445,10 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2507,7 +2494,10 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 768,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2970,7 +2960,10 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3181,7 +3174,10 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 298,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -4564,7 +4560,11 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 32,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "الجذر נשׁק، <فَقَبَّلَتْ>"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5048,7 +5048,11 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 178,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "لِماذا؟"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5117,7 +5121,10 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 743,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5960,7 +5967,10 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 743,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -6110,7 +6120,10 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 743,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -7388,7 +7401,11 @@
       "ps": "p2",
       "pdp": "verb",
       "freq_lex": 46,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "الجذر פגע، مضارع، وزن قَل، ضمير الفاعل أنتِ، <تُلِحِّي>"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -7979,7 +7996,10 @@
       "ps": "p2",
       "pdp": "verb",
       "freq_lex": 835,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -8002,7 +8022,10 @@
       "ps": "p1",
       "pdp": "verb",
       "freq_lex": 835,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9215,7 +9238,10 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 743,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -12692,7 +12718,11 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 327,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "الجذر ברך، مضارع، وزن فعّيل مع ضمير متصل أنتَ ، <يُبَارِكُكَ> "
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -16236,7 +16266,10 @@
       "ps": "p1",
       "pdp": "prps",
       "freq_lex": 359,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -18449,9 +18482,8 @@
       "pdp": "subs",
       "freq_lex": 298,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر טבל، فعل ماضي مع واو القلب، الضمير أنتِ، <وَاغْمِسِي>"
+        "type": "null",
+        "gloss_id": -1
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25284,7 +25316,11 @@
       "ps": "unknown",
       "pdp": "verb",
       "freq_lex": 810,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "حرف الجر לְ + الجذر אכל، وزن قَل، مصدر مضاف"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -33342,7 +33378,10 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 120,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -33718,7 +33757,11 @@
       "ps": "unknown",
       "pdp": "subs",
       "freq_lex": 103,
-      "gloss": null,
+      "gloss": {
+        "type": "word",
+        "gloss_id": -1,
+        "_gloss": "للولي"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -36302,7 +36345,7 @@
       "gloss": {
         "type": "word",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر גאל، وزن قَل، مصدر مضاف، <ليفدي>، بل يقول الفاندَيك، <يَفُكُّ> "
+        "_gloss": "أفُكّ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -39650,7 +39693,10 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 376,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40259,7 +40305,10 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -43975,7 +44024,10 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 10,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -43998,7 +44050,10 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 492,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -44044,7 +44099,10 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 42,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -44090,7 +44148,10 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 42,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -44113,7 +44174,10 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 492,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
