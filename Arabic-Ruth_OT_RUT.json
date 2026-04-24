@@ -425,10 +425,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -451,10 +448,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -550,11 +544,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "בְּ + الاسم الجمع שָׂדִים = في حقول"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -577,10 +567,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -650,8 +637,10 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "امرأتِهِ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -699,8 +688,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "إثنا (صيغة المُضاف)"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -770,10 +761,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -842,10 +830,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -891,10 +876,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -917,10 +899,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -943,10 +922,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -992,10 +968,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1019,8 +992,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "إثنَي (صيغة المُضاف)"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1067,10 +1042,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1116,10 +1088,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 3,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1192,10 +1161,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1218,10 +1184,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1290,11 +1253,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "حقول"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1317,10 +1276,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1466,10 +1422,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1515,10 +1468,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1591,10 +1541,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1641,8 +1588,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "وإثنَي (صيغة المضاف)"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1762,10 +1711,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1788,11 +1734,7 @@
       "ps": "NA",
       "pdp": "adjv",
       "freq_lex": 16,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1815,11 +1757,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1892,11 +1830,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 2,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1942,10 +1876,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2018,10 +1949,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2244,10 +2172,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2297,10 +2222,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2346,10 +2268,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 3,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2445,10 +2364,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2495,8 +2411,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "دون إثنَي (حرفياً <مِن إثنَي>)"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -2666,10 +2584,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2811,11 +2726,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "من حقول"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2838,10 +2749,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2960,10 +2868,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3174,10 +3079,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 298,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3292,10 +3194,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 401,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3415,8 +3314,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "وإثنَي (صيغة المضاف)"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -3582,10 +3483,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 706,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3700,10 +3598,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3772,11 +3667,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -3823,8 +3714,10 @@
       "pdp": "subs",
       "freq_lex": 768,
       "gloss": {
-        "type": "null",
-        "gloss_id": -1
+        "type": "word",
+        "gloss_id": -1,
+        "voice": "NA",
+        "_gloss": "لِإثنَي"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -3921,10 +3814,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -4089,10 +3979,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 245,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -4971,11 +4858,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5123,7 +5006,8 @@
       "freq_lex": 743,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -5723,10 +5607,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5795,11 +5676,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الليلة"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5891,10 +5768,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -5969,7 +5843,8 @@
       "freq_lex": 743,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6122,7 +5997,8 @@
       "freq_lex": 743,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6446,11 +6322,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 300,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "جدّاً"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -6815,11 +6687,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 2,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -6915,10 +6783,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -7348,10 +7213,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -7998,7 +7860,8 @@
       "freq_lex": 835,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8024,7 +7887,8 @@
       "freq_lex": 835,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8398,10 +8262,7 @@
       "ps": "NA",
       "pdp": "prep",
       "freq_lex": 407,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "unknown",
@@ -8447,10 +8308,7 @@
       "ps": "NA",
       "pdp": "prep",
       "freq_lex": 407,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "f",
@@ -8569,10 +8427,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -8906,10 +8761,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9024,10 +8876,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9240,7 +9089,8 @@
       "freq_lex": 743,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -9291,10 +9141,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9463,11 +9310,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9540,10 +9383,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 37,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9666,11 +9506,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 300,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "جدّاً"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9693,10 +9529,7 @@
       "ps": "p1",
       "pdp": "prps",
       "freq_lex": 874,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -9942,10 +9775,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10210,10 +10040,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10259,10 +10086,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10308,11 +10132,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 16,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10481,10 +10301,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10530,11 +10347,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 291,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "وهُم"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10580,10 +10393,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -10758,8 +10568,9 @@
       "freq_lex": 21,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو العطف + حرف الجر לְ + الاسم معومي"
+        "gloss_id": 1115542,
+        "voice": "NA",
+        "_gloss": "واو العطف + حرف الجر לְ + الاسم نعومي"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -10958,7 +10769,8 @@
       "freq_lex": 115,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -10982,10 +10794,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -11031,10 +10840,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -11059,7 +10865,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -11129,10 +10936,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -11178,11 +10982,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 16,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": ""
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -11228,10 +11028,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -11279,7 +11076,8 @@
       "freq_lex": 404,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -11528,7 +11326,8 @@
       "freq_lex": 453,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -11604,7 +11403,8 @@
       "freq_lex": 887,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -11935,11 +11735,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "في الحقل"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -12218,7 +12014,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -12290,7 +12087,8 @@
       "freq_lex": 115,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -12314,10 +12112,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -12388,7 +12183,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -12458,10 +12254,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -12816,7 +12609,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -13138,7 +12932,8 @@
       "freq_lex": 604,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -13460,7 +13255,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -13484,10 +13280,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -13579,10 +13372,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -13655,10 +13445,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -13756,7 +13543,8 @@
       "freq_lex": 404,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -14051,7 +13839,8 @@
       "freq_lex": 521,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -14415,7 +14204,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -14462,10 +14252,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -14711,10 +14498,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -14787,10 +14571,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -15038,7 +14819,8 @@
       "freq_lex": 887,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -15108,10 +14890,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -16093,7 +15872,8 @@
       "freq_lex": 453,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -16169,7 +15949,8 @@
       "freq_lex": 887,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -16268,7 +16049,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -16371,7 +16153,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -16612,7 +16395,8 @@
       "freq_lex": 878,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17076,7 +16860,8 @@
       "freq_lex": 944,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17544,7 +17329,8 @@
       "freq_lex": 505,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17643,7 +17429,8 @@
       "freq_lex": 453,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17719,7 +17506,8 @@
       "freq_lex": 887,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17914,7 +17702,8 @@
       "freq_lex": 601,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -17990,7 +17779,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -18208,7 +17998,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -18411,7 +18202,8 @@
       "freq_lex": 810,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -18481,10 +18273,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 298,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -18928,7 +18717,8 @@
       "freq_lex": 810,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -19204,7 +18994,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -19324,10 +19115,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -19350,10 +19138,7 @@
       "ps": "NA",
       "pdp": "prep",
       "freq_lex": 407,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -19549,10 +19334,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -20017,10 +19799,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -21472,10 +21251,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -21661,7 +21437,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -21731,10 +21508,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -22249,10 +22023,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -22490,10 +22261,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -22541,7 +22309,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -22565,10 +22334,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -23067,10 +22833,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -23116,10 +22879,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -23171,7 +22931,8 @@
       "freq_lex": 469,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -23437,10 +23198,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -23592,7 +23350,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -23941,7 +23700,8 @@
       "freq_lex": 878,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24061,10 +23821,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -24443,7 +24200,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24669,7 +24427,8 @@
       "freq_lex": 878,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24793,11 +24552,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الليلة"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -25537,7 +25292,8 @@
       "freq_lex": 944,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25607,10 +25363,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 401,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -25931,7 +25684,8 @@
       "freq_lex": 370,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26525,7 +26279,8 @@
       "freq_lex": 810,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26551,7 +26306,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26677,7 +26433,8 @@
       "freq_lex": 601,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27262,11 +27019,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الليلة"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -27481,10 +27234,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -27609,7 +27359,8 @@
       "freq_lex": 423,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27708,7 +27459,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27732,10 +27484,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -27964,7 +27713,8 @@
       "freq_lex": 747,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29236,7 +28986,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29283,10 +29034,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -29463,11 +29211,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الليلة"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -29661,7 +29405,8 @@
       "freq_lex": 469,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29910,7 +29655,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30603,10 +30349,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -31407,7 +31150,8 @@
       "freq_lex": 423,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32689,7 +32433,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32715,7 +32460,8 @@
       "freq_lex": 890,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32960,7 +32706,8 @@
       "freq_lex": 548,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33032,7 +32779,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33354,7 +33102,8 @@
       "freq_lex": 965,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33380,7 +33129,8 @@
       "freq_lex": 120,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33834,10 +33584,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -33956,10 +33703,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34009,10 +33753,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34104,10 +33845,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34130,10 +33868,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34179,10 +33914,7 @@
       "ps": "p1",
       "pdp": "prps",
       "freq_lex": 874,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34953,7 +34685,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35052,7 +34785,8 @@
       "freq_lex": 359,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35151,7 +34885,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35271,10 +35006,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35343,10 +35075,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35442,10 +35171,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35493,7 +35219,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35671,10 +35398,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -36172,7 +35896,8 @@
       "freq_lex": 747,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36394,7 +36119,8 @@
       "freq_lex": 604,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36973,7 +36699,8 @@
       "freq_lex": 604,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37214,7 +36941,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37413,7 +37141,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37631,7 +37360,8 @@
       "freq_lex": 283,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37843,10 +37573,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -37984,10 +37711,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 3,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38033,10 +37757,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38105,10 +37826,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38154,10 +37872,7 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38203,10 +37918,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38254,7 +37966,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38305,10 +38018,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38404,10 +38114,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38480,10 +38187,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38679,10 +38383,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38901,10 +38602,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 401,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -38956,7 +38654,8 @@
       "freq_lex": 283,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -39429,10 +39128,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -39695,7 +39391,8 @@
       "freq_lex": 376,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -39988,10 +39685,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40037,10 +39731,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40305,10 +39996,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40594,7 +40282,8 @@
       "freq_lex": 604,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -40643,7 +40332,8 @@
       "freq_lex": 965,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -40669,7 +40359,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -40716,10 +40407,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40834,10 +40522,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41190,10 +40875,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41239,10 +40921,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41534,10 +41213,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -41723,7 +41399,8 @@
       "freq_lex": 754,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42020,10 +41697,7 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42048,7 +41722,8 @@
       "freq_lex": 469,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42193,7 +41868,8 @@
       "freq_lex": 965,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42217,10 +41893,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42658,10 +42331,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42803,10 +42473,7 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42879,10 +42546,7 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": {
-        "type": "null",
-        "gloss_id": -1
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -42907,7 +42571,8 @@
       "freq_lex": 10,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42979,7 +42644,8 @@
       "freq_lex": 42,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43232,7 +42898,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43281,7 +42948,8 @@
       "freq_lex": 16,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43357,7 +43025,8 @@
       "freq_lex": 7,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43406,7 +43075,8 @@
       "freq_lex": 7,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43432,7 +43102,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43481,7 +43152,8 @@
       "freq_lex": 13,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43530,7 +43202,8 @@
       "freq_lex": 13,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43556,7 +43229,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43605,7 +43279,8 @@
       "freq_lex": 10,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43654,7 +43329,8 @@
       "freq_lex": 10,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43680,7 +43356,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43729,7 +43406,8 @@
       "freq_lex": 1,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43778,7 +43456,8 @@
       "freq_lex": 1,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43804,7 +43483,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43853,7 +43533,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43902,7 +43583,8 @@
       "freq_lex": 24,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43928,7 +43610,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43977,7 +43660,8 @@
       "freq_lex": 10,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -44026,7 +43710,8 @@
       "freq_lex": 10,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -44052,7 +43737,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -44101,7 +43787,8 @@
       "freq_lex": 42,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -44150,7 +43837,8 @@
       "freq_lex": 42,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -44176,7 +43864,8 @@
       "freq_lex": 492,
       "gloss": {
         "type": "null",
-        "gloss_id": -1
+        "gloss_id": -1,
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
