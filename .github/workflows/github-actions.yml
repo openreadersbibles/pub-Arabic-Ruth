@@ -21,16 +21,16 @@ jobs:
             Arabic-Ruth_OT_RUT.tex
           latexmk_use_xelatex: true
           continue_on_error: true
-          working_directory: 'default'
+          working_directory: '79'
           extra_fonts: |
             ./fonts/*.ttf
       - name: Upload PDF file to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: 'default'
+          publish_dir: '79'
           publish_branch: gh-pages
-          destination_dir: 'default'
+          destination_dir: '79'
           keep_files: true
           exclude_assets: '**.xdv,**.log,**.fls,**.fdb_latexmk,**.aux,**.tex,fonts/**,.github/**,.github/workflows/**,openreader.cls'
       - name: Create and index for the page

@@ -133,7 +133,7 @@
 
 % Creates a section header and puts a header in the footnotes as well.
 \def\ChapterHeader#1#2{%
-    \section*{#1}%
+    \section*{\localnumeral{#1}}%
    \MainLanguageFootnoteText{\textmainlanguage{\textbf{#2}}}%
 }
 
@@ -147,7 +147,7 @@
 % Otherwise print a space the width of the verse number (so that the 
 % footnote markers will be vertically aligned).
 \def\FnVerseMarker{%
-    \setbox0=\hbox{\selectmainlanguage \localnumeral{\the\LastVerseNumber}\ }% Create a box with the verse number and a small space
+    \setbox0=\hbox{\selectmainlanguage \localnumeral{\the\LastVerseNumber}\ \ }% Create a box with the verse number and a small space
     \ifThisIsTheFirstFootnoteForAVerse% if this is the first footnote for the verse
         \box0% print the box
         \global\ThisIsTheFirstFootnoteForAVersefalse% remember that it is no longer the first footnote for the verse
@@ -234,11 +234,24 @@
 \def\FnFreeform#1{\Gloss{#1}}
 
 
+\def\OpenReadersBiblesLanguage#1{%
+\global\edef\ORBLanguage{#1}
+}
+
 \AtBeginDocument{%
 
 % Set the ifs for Greek and Hebrew
-\iflanguageloaded{greek}{\greektrue}{\greekfalse}
-\iflanguageloaded{hebrew}{\hebrewtrue}{\hebrewfalse}
+\def\GREEK{greek}
+\ifx\ORBLanguage\GREEK
+	\greektrue
+	\hebrewfalse
+\else
+	\greekfalse
+	\hebrewtrue
+\fi
+
+%\iflanguageloaded{greek}{\greektrue}{\greekfalse}
+%\iflanguageloaded{hebrew}{\hebrewtrue}{\hebrewfalse}
 
 
 \global\edef\MainLanguageDirection{\langdir{\mainlanguagename}}
@@ -268,7 +281,6 @@
   \raggedleft%
 \fi%
 }
-
 
 }
 
