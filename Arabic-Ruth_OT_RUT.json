@@ -495,9 +495,11 @@
       "pdp": "verb",
       "freq_lex": 83,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "ليتغرّب (حرف الجر לְ + مصدر مضاف)"
+        "type": "wordplusmarkdown",
+        "gloss_id": 1158097,
+        "voice": "qal",
+        "_gloss": "ليتغرّب",
+        "_markdown": "حرف الجر [[לְ]] + مصدر مضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1396,9 +1398,11 @@
       "pdp": "verb",
       "freq_lex": 835,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "واو التتابع والجذر מות"
+        "voice": "qal",
+        "_gloss": "ومات",
+        "_markdown": "واو التتابع"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1516,8 +1520,9 @@
       "freq_lex": 133,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "وبَقِيَت (واو التتابع من الجذر שׁאר) "
+        "gloss_id": 1115441,
+        "voice": "nif",
+        "_gloss": "وبَقِيَت (واو التتابع) "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -1663,8 +1668,9 @@
       "freq_lex": 653,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو التتابع والجذر נשׂא، في هذا السياق يعني الفعل <اتّخذ> او <تزوّج بـ>"
+        "gloss_id": 1115444,
+        "voice": "qal",
+        "_gloss": "واو التتابع، في هذا السياق يعني الفعل <اتّخذ> او <تزوّج بـ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -2069,9 +2075,11 @@
       "pdp": "subs",
       "freq_lex": 56,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر כְּ + العدد <عشرة>"
+        "voice": "NA",
+        "_gloss": "حوالي عَشَر",
+        "_markdown": "حرف الجر [[כְּ]] + العدد <عشرة>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -2145,11 +2153,7 @@
       "ps": "p3",
       "pdp": "verb",
       "freq_lex": 835,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو التتابع والجذر מות"
-      },
+      "gloss": null,
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -2316,8 +2320,9 @@
       "freq_lex": 133,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "وبَقِيَت (واو التتابع من الجذر שׁאר) "
+        "gloss_id": 1115441,
+        "voice": "nif",
+        "_gloss": "وبَقِيَت (واو التتابع) "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -4449,8 +4454,9 @@
       "freq_lex": 32,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر נשׁק، <فَقَبَّلَتْ>"
+        "gloss_id": 1115499,
+        "voice": "qal",
+        "_gloss": "فَقَبَّلَتْ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -4522,8 +4528,9 @@
       "freq_lex": 653,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو التتابع، والجذر נשׂא، والضمير هُنَّ، <وَرَفَعْنَ>"
+        "gloss_id": 1115476,
+        "voice": "qal",
+        "_gloss": "واو التتابع، والضمير هُنَّ، <وَرَفَعْنَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -4599,8 +4606,9 @@
       "freq_lex": 114,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "جذر الفعل בכה وضمار الفعل هُنَّ"
+        "gloss_id": 1115478,
+        "voice": "qal",
+        "_gloss": "ضمار الفعل هُنَّ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -4717,9 +4725,11 @@
       "pdp": "prep",
       "freq_lex": 878,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجرאֶת مع ضمير متصل أنتِ <معكِ>"
+        "voice": "NA",
+        "_gloss": "معكِ",
+        "_markdown": "حرف الجر [[אֶת]] مع ضمير متصل أنتِ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6508,8 +6518,9 @@
       "freq_lex": 653,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو التتابع، والجذر נשׂא، والضمير هُنَّ، <وَرَفَعْنَ>"
+        "gloss_id": 1115476,
+        "voice": "qal",
+        "_gloss": "واو التتابع، والضمير هُنَّ، <وَرَفَعْنَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6585,8 +6596,9 @@
       "freq_lex": 114,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "جذر الفعل בכה وضمار الفعل هُنَّ"
+        "gloss_id": 1115478,
+        "voice": "qal",
+        "_gloss": "ضمار الفعل هُنَّ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6662,8 +6674,9 @@
       "freq_lex": 32,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر נשׁק، <فَقَبَّلَتْ>"
+        "gloss_id": 1115499,
+        "voice": "qal",
+        "_gloss": "فَقَبَّلَتْ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -7265,8 +7278,9 @@
       "freq_lex": 46,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر פגע، مضارع، وزن قَل، ضمير الفاعل أنتِ، <تُلِحِّي>"
+        "gloss_id": 1157893,
+        "voice": "qal",
+        "_gloss": " مضارع، وزن قَل، ضمير الفاعل أنتِ، <تُلِحِّي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -7337,9 +7351,11 @@
       "pdp": "verb",
       "freq_lex": 214,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الج לְ، الجذر עזב، والضمير المتصل أنتِ، <أَنْ أَتْرُكَكِ>"
+        "voice": "qal",
+        "_gloss": " <أَنْ أَتْرُكَكِ>",
+        "_markdown": "حرف الجر [[לְ]]، الضمير المتصل أنتِ،"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -7645,8 +7661,9 @@
       "freq_lex": 70,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر לין، الضمير أنتِ، <بِتِّ>"
+        "gloss_id": 1115507,
+        "voice": "qal",
+        "_gloss": " الضمير أنتِ، <بِتِّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -7672,8 +7689,9 @@
       "freq_lex": 70,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر לין، الضمير أنا، <أُبيت>"
+        "gloss_id": 1115508,
+        "voice": "qal",
+        "_gloss": "الضمير أنا، <أُبيت>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -7964,8 +7982,9 @@
       "freq_lex": 133,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קבר، وزن نفعل <أَنْدَفِنُ>"
+        "gloss_id": 1115509,
+        "voice": "nif",
+        "_gloss": "وزن نفعل <أَنْدَفِنُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8402,8 +8421,9 @@
       "freq_lex": 41,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر אמץ، اسم فاعل مفرد مؤنت، الوزن هِتفَعّيل، <مُشَدِّدَةٌ عَلَى...>"
+        "gloss_id": 1115517,
+        "voice": "hit",
+        "_gloss": "اسم فاعل مفرد مؤنت، الوزن هِتفَعّيل، <مُشَدِّدَةٌ عَلَى...>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8497,9 +8517,11 @@
       "pdp": "prep",
       "freq_lex": 878,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر אֶת مع ضمير متصل <هي>"
+        "voice": "NA",
+        "_gloss": "معها",
+        "_markdown": "حرف الجر אֶת مع ضمير متصل هي "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8548,8 +8570,9 @@
       "freq_lex": 58,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر חדל، مضارع بالضمير <هي> مع واو التتابع <فَكَفَّتْ>"
+        "gloss_id": 1115519,
+        "voice": "qal",
+        "_gloss": "مضارع بالضمير <هي> مع واو التتابع <فَكَفَّتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8924,8 +8947,9 @@
       "freq_lex": 6,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر הום، وزن نفعَل، الضمير هي، <تَحَرَّكَتْ> "
+        "gloss_id": 1115520,
+        "voice": "nif",
+        "_gloss": "وزن نفعَل، الضمير هي، <تَحَرَّكَتْ> "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -9431,8 +9455,9 @@
       "freq_lex": 17,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر מרר، وزن هِفعيل، ماضي، <أَمَرَّ> أي، جعل مرير"
+        "gloss_id": 1115526,
+        "voice": "hif",
+        "_gloss": "وزن هِفعيل، ماضي، <أَمَرَّ> أي، جعل مرير"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -9458,8 +9483,9 @@
       "freq_lex": 48,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "أحد اسماء الله، <القدير>"
+        "gloss_id": 1115527,
+        "voice": "NA",
+        "_gloss": "أحد اسماء الّله، <القدير>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -9846,8 +9872,9 @@
       "freq_lex": 316,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ענה، ماضي، <قَدْ أَذَلَّ>"
+        "gloss_id": 1115533,
+        "voice": "qal",
+        "_gloss": "ماضي، <قَدْ أَذَلَّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -9946,8 +9973,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر רעע،  الوزن هفعيل، ماضي، <كَسَّرَ> أي، عَمِلَ السيئ"
+        "gloss_id": 1115535,
+        "voice": "hif",
+        "_gloss": "الوزن هفعيل، ماضي، <كَسَّرَ> أي، عَمِلَ السيئ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -10440,9 +10468,11 @@
       "pdp": "subs",
       "freq_lex": 22,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": " حرف الجر בְּ + الاسم תְּחִלָּהبحالة المُضاف، <فِي ابْتِدَاءِ>"
+        "voice": "NA",
+        "_gloss": "<فِي ابْتِدَاءِ>",
+        "_markdown": " حرف الجر [[בְּ]] + الاسم [[תְּחִלָּה]] بحالة المُضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
