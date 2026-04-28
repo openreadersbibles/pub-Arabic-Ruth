@@ -419,7 +419,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -442,7 +446,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -563,7 +571,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -757,7 +769,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -826,7 +842,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -872,7 +892,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -964,7 +988,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1038,7 +1066,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1084,7 +1116,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 3,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1157,7 +1193,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1180,7 +1220,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1272,7 +1316,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1420,7 +1468,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1466,7 +1518,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1540,7 +1596,11 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1734,7 +1794,11 @@
       "ps": "NA",
       "pdp": "adjv",
       "freq_lex": 16,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1757,7 +1821,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1830,7 +1898,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 2,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1876,7 +1948,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -1949,7 +2025,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -23911,7 +23991,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
