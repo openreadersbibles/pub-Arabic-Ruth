@@ -2471,7 +2471,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -6213,8 +6217,9 @@
       "freq_lex": 1,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر עגן والوزن نِفعَل، <تَنْحَجِزَانِ>"
+        "gloss_id": 1115493,
+        "voice": "nif",
+        "_gloss": "الوزن نِفعَل، <تَنْحَجِزَانِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -8700,10 +8705,10 @@
       "freq_lex": 878,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158102,
         "voice": "NA",
         "_gloss": "معها",
-        "_markdown": "حرف الجر אֶת مع ضمير متصل هي "
+        "_markdown": "حرف الجر [[אֶת]] مع ضمير متصل هي "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -16361,10 +16366,10 @@
       "freq_lex": 49,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158115,
         "voice": "hif",
-        "_gloss": "حرف الجر לְ + الجذر  <حَتَّى تَنْظُرَ إِلَيَّ> أو <لكي تُدرِكَني>",
-        "_markdown": "مصدر مُضاف، وزن هفعيل مع ضمير متصل أنا"
+        "_gloss": "<حَتَّى تَنْظُرَ إِلَيَّ> أو <لكي تُدرِكَني>",
+        "_markdown": "حرف الجر [[לְ]]، مصدر مُضاف، وزن هفعيل مع ضمير متصل أنا"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -19360,8 +19365,9 @@
       "freq_lex": 494,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر צוה، مضارع مع واو التتابع، <فَأَمَرَ>"
+        "gloss_id": 1156611,
+        "voice": "piel",
+        "_gloss": "مضارع مع واو التتابع، <فَأَمَرَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -19794,8 +19800,9 @@
       "freq_lex": 2,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁלל، مضارع، الضمير أنتم، <أَنْسِلُوا >"
+        "gloss_id": 1156932,
+        "voice": "qal",
+        "_gloss": "مضارع، الضمير أنتم، <أَنْسِلُوا >"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34897,8 +34904,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، مضارع، ضمير الفاعل أنتَ، <تفدي> أو في السياق، <فدَيتَ>، بل يقول الفاندَيك، <كُنْتَ تَفُكُّ>"
+        "gloss_id": 1157806,
+        "voice": "qal",
+        "_gloss": "مضارع، ضمير الفاعل أنتَ، <تفدي> أو في السياق، <فدَيتَ>، بل يقول الفاندَيك، <كُنْتَ تَفُكُّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34924,8 +34932,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، فعل أمر، <افدِ>، بل يقول الفاتدَيك، <فَفُكَّ>"
+        "gloss_id": 1157807,
+        "voice": "qal",
+        "_gloss": "فعل أمر، <افدِ>، بل يقول الفاتدَيك، <فَفُكَّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35020,8 +35029,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، مضارع، <يفدي> بل يقول الفاندَيك، <كُنْتَ تَفُكُّ>"
+        "gloss_id": 1157808,
+        "voice": "qal",
+        "_gloss": "مضارع، <يفدي> بل يقول الفاندَيك، <كُنْتَ تَفُكُّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35423,8 +35433,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، مضارع والضمير أنا، <افدي> او أَفُكُّ"
+        "gloss_id": 1157815,
+        "voice": "qal",
+        "_gloss": "مضارع والضمير أنا، <افدي> او أَفُكُّ"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36128,7 +36139,7 @@
       "freq_lex": 224,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158185,
         "voice": "NA",
         "_gloss": "<مِيرَاثِهِ>",
         "_markdown": "الاسم [[נַחֲלָה]] مع ضمير متصل هو"
@@ -36328,7 +36339,7 @@
       "freq_lex": 103,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158186,
         "voice": "qal",
         "_gloss": "<أَنْ أَفُكَّ>",
         "_markdown": "الصيغة المشكلة هي [[לִגְאָול]]، حرف الجر [[לְ]]، مصدر مضاف، "
@@ -36458,7 +36469,7 @@
       "freq_lex": 224,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158185,
         "voice": "NA",
         "_gloss": "<مِيرَاثِهِ>",
         "_markdown": "الاسم [[נַחֲלָה]] مع ضمير متصل هو"
@@ -36487,8 +36498,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، فعل أمر، <افدِ>، بل يقول الفاتدَيك، <فَفُكَّ>"
+        "gloss_id": 1157807,
+        "voice": "qal",
+        "_gloss": "فعل أمر، <افدِ>، بل يقول الفاتدَيك، <فَفُكَّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36587,7 +36599,7 @@
       "freq_lex": 14,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158187,
         "voice": "NA",
         "_gloss": "<فِكَاكِي> أو <فِدائي>",
         "_markdown": "الاسم [[גְּאֻלָּה]] مع ضمير متصل أنا "
