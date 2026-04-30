@@ -4439,8 +4439,9 @@
       "freq_lex": 453,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "جذر الفعل מצא، فعل الأمر، ضمير الفعل أنتُنَّ، لكن المعنى في هذا السياق هو <أَنْ تَجِدَا>"
+        "gloss_id": 1115473,
+        "voice": "qal",
+        "_gloss": "فعل الأمر، ضمير الفعل أنتُنَّ، لكن المعنى في هذا السياق هو <أَنْ تَجِدَا>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -6358,7 +6359,8 @@
       "freq_lex": 726,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
+        "gloss_id": 1115495,
+        "voice": "NA",
         "_gloss": "لا"
       },
       "qere_utf8": "",
@@ -7418,7 +7420,8 @@
       "freq_lex": 726,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
+        "gloss_id": 1115495,
+        "voice": "NA",
         "_gloss": "لا"
       },
       "qere_utf8": "",
@@ -9450,7 +9453,8 @@
       "freq_lex": 726,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
+        "gloss_id": 1115495,
+        "voice": "NA",
         "_gloss": "لا"
       },
       "qere_utf8": "",
@@ -21409,8 +21413,9 @@
       "freq_lex": 327,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ברך، اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
+        "gloss_id": 1157744,
+        "voice": "qal",
+        "_gloss": "اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -22013,8 +22018,9 @@
       "freq_lex": 327,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ברך، اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
+        "gloss_id": 1157744,
+        "voice": "qal",
+        "_gloss": "اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24364,7 +24370,11 @@
       "ps": "NA",
       "pdp": "inrg",
       "freq_lex": 743,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -24412,8 +24422,9 @@
       "freq_lex": 225,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر בקשׁ، مضارع، وزن فعّيل، الضمير أنا، <أَلْتَمِسُ> أو <أبحث عن>"
+        "gloss_id": 1156969,
+        "voice": "piel",
+        "_gloss": "مضارع، وزن فعّيل، الضمير أنا، <أَلْتَمِسُ> أو <أبحث عن>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24512,8 +24523,9 @@
       "freq_lex": 117,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יטב، مضارع، الضمير هو، <لِيَكُونَ خَيْرٌ>"
+        "gloss_id": 1156971,
+        "voice": "qal",
+        "_gloss": "مضارع، الضمير هو، <لِيَكُونَ خَيْرٌ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -24862,8 +24874,9 @@
       "freq_lex": 40,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر זרה، اسم فاعل، <يُذَرِّي>"
+        "gloss_id": 1156974,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، <يُذَرِّي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25014,7 +25027,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -25062,8 +25079,9 @@
       "freq_lex": 72,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر רחץ، ماضي مع واو القلب، وزن قَل، الضمير أنتِ، <فَاغْتَسِلِي>"
+        "gloss_id": 1156977,
+        "voice": "qal",
+        "_gloss": "ماضي مع واو القلب، وزن قَل، الضمير أنتِ، <فَاغْتَسِلِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25112,8 +25130,9 @@
       "freq_lex": 9,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر סוך، ماضي مع واو القلب، الضمير أنتِ، <وَتَدَهَّنِي>"
+        "gloss_id": 1156978,
+        "voice": "qal",
+        "_gloss": "ماضي مع واو القلب، الضمير أنتِ، <وَتَدَهَّنِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25162,8 +25181,9 @@
       "freq_lex": 583,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׂים، ماضي مع واو القلب، الضمير أنتِ، <ضعي> أو <وَالْبَسِي>"
+        "gloss_id": 1156979,
+        "voice": "qal",
+        "_gloss": "ماضي مع واو القلب، الضمير أنتِ، <ضعي> أو <وَالْبَسِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25188,9 +25208,11 @@
       "pdp": "subs",
       "freq_lex": 29,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الصيغة المشكَّل هي שִׂמְלֹתִַךְ. الاسم  שִׂמְלָה مع ضمير متصل أنتِ، <ثِيَابَكِ>"
+        "voice": "NA",
+        "_gloss": "<ثِيَابَكِ>",
+        "_markdown": "الصيغة المشكَّل هي [[שִׂמְלֹתִַךְ]] أي، الاسم  [[שִׂמְלָה]] مع ضمير متصل أنتِ"
       },
       "qere_utf8": "שִׂמְלֹתַ֛יִךְ",
       "kq_hybrid_utf8": "שִׂמְלֹתִַ֛ךְ",
@@ -25261,9 +25283,11 @@
       "pdp": "verb",
       "freq_lex": 377,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الضيغة المشكَّلة هي וְיָרַדְתְּי. الجذر ירד، ماضي مع واو القلب، الضمير أنتِ، <وَانْزِلِي>"
+        "voice": "qal",
+        "_gloss": " <وَانْزِلِي>",
+        "_markdown": "الضيغة المشكَّلة هي [[וְיָרַדְתְּי]] الجذر [[ירד]]، ماضي مع واو القلب، الضمير أنتِ"
       },
       "qere_utf8": "יָרַ֣דְתְּ",
       "kq_hybrid_utf8": "יָרַ֣דְתְּי",
@@ -25339,7 +25363,8 @@
       "freq_lex": 726,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
+        "gloss_id": 1115495,
+        "voice": "NA",
         "_gloss": "لا"
       },
       "qere_utf8": "",
@@ -25366,8 +25391,9 @@
       "freq_lex": 944,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ידע، وزن نِفعل، مضارع، الضمير أنتِ، <تُعْرَفِي> أي، مبني للمجهول"
+        "gloss_id": 1156982,
+        "voice": "nif",
+        "_gloss": "وزن نِفعل، مضارع، الضمير أنتِ، <تُعْرَفِي> أي، مبني للمجهول"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25485,8 +25511,9 @@
       "freq_lex": 206,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر כלה، وزن فعّيل، مصدر مضاف مع ضمير متصل هو، <حَتَّى يَفْرَغَ>"
+        "gloss_id": 1156983,
+        "voice": "piel",
+        "_gloss": "وزن فعّيل، مصدر مضاف مع ضمير متصل هو، <حَتَّى يَفْرَغَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25534,9 +25561,11 @@
       "pdp": "verb",
       "freq_lex": 810,
       "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر אכל، وزن قَل، مصدر مضاف"
+        "type": "wordplusmarkdown",
+        "gloss_id": 1158166,
+        "voice": "qal",
+        "_gloss": "<<الأكْل>> أو <<يأكل>>",
+        "_markdown": "حرف الجر [[לְ]]، وزن قَل، مصدر مضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25607,9 +25636,11 @@
       "pdp": "verb",
       "freq_lex": 217,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "واو العطف، حرف الجر לְ + الجذر שׁתה ، مصدر مضاف، <وَالشُّرْبِ> أو <يشرب>"
+        "voice": "qal",
+        "_gloss": "<وَالشُّرْبِ> أو <يشرب>",
+        "_markdown": "واو العطف، حرف الجر [[לְ]] ، مصدر مضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25703,9 +25734,11 @@
       "pdp": "verb",
       "freq_lex": 212,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر בְּ + الجذر שׁכב، مصدر مضاف مع ضمير متصل هو، <وَمَتَى اضْطَجَعَ >"
+        "voice": "qal",
+        "_gloss": "<وَمَتَى اضْطَجَعَ >",
+        "_markdown": "حرف الجر [[בְּ]]، مصدر مضاف مع ضمير متصل هو "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25825,7 +25858,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 401,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -25873,8 +25910,9 @@
       "freq_lex": 212,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁכב، مضارع، <يَضْطَجعُ>"
+        "gloss_id": 1156986,
+        "voice": "qal",
+        "_gloss": "مضارع، <يَضْطَجعُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -25996,8 +26034,9 @@
       "freq_lex": 188,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גלה، ماضي مع واو القلب، الضمير أنتِ، <وَاكْشِفِي>"
+        "gloss_id": 1156987,
+        "voice": "piel",
+        "_gloss": "ماضي مع واو القلب، الضمير أنتِ، <وَاكْشِفِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26072,9 +26111,11 @@
       "pdp": "verb",
       "freq_lex": 212,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الضيغة المشكَّلة هي וְשָׁכַבְתְּי، الجذر שׁכב، ماضي مع واو القلب، الضمير أنتِ، <وَاضْطَجِعِي>"
+        "voice": "qal",
+        "_gloss": "<وَاضْطَجِعِي>",
+        "_markdown": "الضيغة المشكَّلة هي [[וְשָׁכַבְתְּי]]، ماضي مع واو القلب، الضمير أنتِ "
       },
       "qere_utf8": "שָׁכָ֑בְתְּ",
       "kq_hybrid_utf8": "שָׁכָ֑בְתְּי",
@@ -26472,8 +26513,9 @@
       "freq_lex": 377,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ירד، مضارع مع واو التتابع، الضمير هي، <فَنَزَلَتْ>"
+        "gloss_id": 1156991,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، الضمير هي، <فَنَزَلَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26664,8 +26706,9 @@
       "freq_lex": 494,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر צוה، ماضي، ضمير الفاعل هي مع ضمير متصل هي، <أَمَرَتْهَا بِهِ> "
+        "gloss_id": 1156992,
+        "voice": "piel",
+        "_gloss": "ماضي، ضمير الفاعل هي مع ضمير متصل هي، <أَمَرَتْهَا بِهِ> "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26818,8 +26861,9 @@
       "freq_lex": 217,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁתה، مضارع مع واو التتابع، الوزن قَل، الضمير هو، <وَشَرِبَ>"
+        "gloss_id": 1156993,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، الوزن قَل، الضمير هو، <وَشَرِبَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26868,8 +26912,9 @@
       "freq_lex": 117,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יטב، مضارع مع واو التتابع، زون قَل، <وَطَابَ>"
+        "gloss_id": 1156994,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، زون قَل، <وَطَابَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -26990,9 +27035,11 @@
       "pdp": "verb",
       "freq_lex": 212,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לֽ + الفعل שׁכב، مصدر مضاف، <لِيَضْطَجعَ>"
+        "voice": "qal",
+        "_gloss": "<لِيَضْطَجعَ>",
+        "_markdown": "حرف الجر [[לֽ]] مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27040,9 +27087,11 @@
       "pdp": "subs",
       "freq_lex": 92,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": " حرف الجر בְּ + الاسم קְצֵה، <فِي طَرَفِ>"
+        "voice": "NA",
+        "_gloss": "<فِي طَرَفِ>",
+        "_markdown": " حرف الجر [[בְּ]] + الاسم [[קְצֵה]] "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27209,9 +27258,11 @@
       "pdp": "subs",
       "freq_lex": 7,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر בְּ + الاسم المعرف לָט، <سِرًّا>"
+        "voice": "NA",
+        "_gloss": "<سِرًّا>",
+        "_markdown": "حرف الجر [[בְּ]] + الاسم المعرف [[לָט]]"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27260,8 +27311,9 @@
       "freq_lex": 188,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גלה، وزن فعّيل، مضارع مع واو التتابع، الضمير هي، <وَكَشَفَتْ>"
+        "gloss_id": 1156999,
+        "voice": "piel",
+        "_gloss": "وزن فعّيل، مضارع مع واو التتابع، الضمير هي، <وَكَشَفَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27337,8 +27389,9 @@
       "freq_lex": 212,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁכב، مضارع مع واو التتابع، الضمير هي، <وَاضْطَجَعَتْ>"
+        "gloss_id": 1157000,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، الضمير هي، <وَاضْطَجَعَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27432,9 +27485,11 @@
       "pdp": "subs",
       "freq_lex": 125,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر בְּ + الاسم חֲצִי، <عِنْدَ انْتِصَافِ>"
+        "voice": "NA",
+        "_gloss": "<عِنْدَ انْتِصَافِ>",
+        "_markdown": "حرف الجر [[בְּ]] + الاسم [[חֲצִי]] "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27481,7 +27536,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -27529,8 +27588,9 @@
       "freq_lex": 39,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر חרד، مضارع مع واو التتابع، وزن قَل، <اضْطَرَبَ>"
+        "gloss_id": 1157733,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، <اضْطَرَبَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27625,8 +27685,9 @@
       "freq_lex": 3,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر לפת، وزن نفعل، مضارع مع واو التتابع، <وَالْتَفَتَ>"
+        "gloss_id": 1157734,
+        "voice": "nif",
+        "_gloss": "وزن نفعل، مضارع مع واو التتابع، <وَالْتَفَتَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27696,7 +27757,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -27721,8 +27786,9 @@
       "freq_lex": 212,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁכב، اسم فاعل، مفرد مؤنث، وزن قَل، <مُضْطَجِعَةٍ>"
+        "gloss_id": 1157735,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، مفرد مؤنث، وزن قَل، <مُضْطَجِعَةٍ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -27946,7 +28012,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -28021,8 +28091,9 @@
       "freq_lex": 67,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر פרשׂ، ماضي مع واو القلب، الضمير أنتَ، <فَابْسُطْ>"
+        "gloss_id": 1157739,
+        "voice": "qal",
+        "_gloss": "ماضي مع واو القلب، الضمير أنتَ، <فَابْسُطْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28148,8 +28219,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، اسم فاعل، <وَلي>"
+        "gloss_id": 1157742,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، <وَلي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28248,8 +28320,9 @@
       "freq_lex": 327,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ברך، اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
+        "gloss_id": 1157744,
+        "voice": "qal",
+        "_gloss": "اسم مفعول، مفرد مؤنث، <مُبَارَكَةٌ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28375,8 +28448,9 @@
       "freq_lex": 117,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יטב، وزن هفعيل، ماضي، الضمير أنتِ، <قَدْ أَحْسَنْتِ>"
+        "gloss_id": 1157745,
+        "voice": "hif",
+        "_gloss": "وزن هفعيل، ماضي، الضمير أنتِ، <قَدْ أَحْسَنْتِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28874,9 +28948,9 @@
       "pdp": "subs",
       "freq_lex": 588,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "بِنتي"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28901,9 +28975,9 @@
       "pdp": "nega",
       "freq_lex": 726,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "لا"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -28929,8 +29003,9 @@
       "freq_lex": 332,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ירא، مضارع، الضمير أنتِ، <تَخَافِي>"
+        "gloss_id": 1157752,
+        "voice": "qal",
+        "_gloss": "مضارع، الضمير أنتِ، <تَخَافِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29094,8 +29169,9 @@
       "freq_lex": 944,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذرידע، اسم فاعل، مفرد، مذكر "
+        "gloss_id": 1157753,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، مفرد، مذكر "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29216,9 +29292,11 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "هذه الكلمة هي الاسم אִשָּׁה بصيغة المضاف"
+        "voice": "NA",
+        "_gloss": "<امرأة>",
+        "_markdown": "هذه الكلمة هي الاسم [[אִשָּׁה]] بصيغة المضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29421,8 +29499,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، اسم فاعل، <وَلي>"
+        "gloss_id": 1157742,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، <وَلي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29496,7 +29575,11 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -29548,8 +29631,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، اسم فاعل، <وَلي>"
+        "gloss_id": 1157742,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، <وَلي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29625,8 +29709,9 @@
       "freq_lex": 70,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر לין، فعل أمر، الضمير أنتِ، <بِيتِي>"
+        "gloss_id": 1157759,
+        "voice": "qal",
+        "_gloss": "فعل أمر، الضمير أنتِ، <بِيتِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29673,7 +29758,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 227,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -29789,9 +29878,11 @@
       "pdp": "subs",
       "freq_lex": 214,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر בְּ + الاسم בֹּקֶר، <فِي الصَّبَاحِ>"
+        "voice": "NA",
+        "_gloss": "<فِي الصَّبَاحِ>",
+        "_markdown": "حرف الجر [[בְּ]] + الاسم [[בֹּקֶר]]"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29840,8 +29931,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، مضارع مع ضمير متصل أنتِ، <قَضَى لَكِ حَقَّ الْوَلِيِّ>"
+        "gloss_id": 1157761,
+        "voice": "qal",
+        "_gloss": "مضارع مع ضمير متصل أنتِ، <قَضَى لَكِ حَقَّ الْوَلِيِّ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29894,8 +29986,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، فعل طلبي، < لِيَقْضِ>"
+        "gloss_id": 1157762,
+        "voice": "qal",
+        "_gloss": "فعل طلبي، < لِيَقْضِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -29990,8 +30083,9 @@
       "freq_lex": 77,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر חפץ، مضارع، <يَشَأْ>"
+        "gloss_id": 1157763,
+        "voice": "qal",
+        "_gloss": "مضارع، <يَشَأْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30039,9 +30133,11 @@
       "pdp": "verb",
       "freq_lex": 103,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر גאל، مصدر مضاف مع ضمير متصل أنتِ، <أَنْ يَقْضِيَ لَكِ حَقَّ الْوَلِيِّ>"
+        "voice": "qal",
+        "_gloss": "<أَنْ يَقْضِيَ لَكِ حَقَّ الْوَلِيِّ>",
+        "_markdown": "حرف الجر [[לְ]]، مصدر مضاف مع ضمير متصل أنتِ، "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30090,8 +30186,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، ماضي مع واو القلب، الضمير أنا مع ضمير متصل أنتِ، <فَأَنَا أَقْضِي لَكِ>"
+        "gloss_id": 1157765,
+        "voice": "qal",
+        "_gloss": "ماضي مع واو القلب، الضمير أنا مع ضمير متصل أنتِ، <فَأَنَا أَقْضِي لَكِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30194,8 +30291,9 @@
       "freq_lex": 212,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁכב، فعل أمر، الضمير انتِ، <اِضْطَجِعِي>"
+        "gloss_id": 1157767,
+        "voice": "qal",
+        "_gloss": "فعل أمر، الضمير انتِ، <اِضْطَجِعِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30317,8 +30415,9 @@
       "freq_lex": 212,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁכב، مضارع مع واو التتابع، الضمير هي، <وَاضْطَجَعَتْ>"
+        "gloss_id": 1157000,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، الضمير هي، <وَاضْطَجَعَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30467,8 +30566,9 @@
       "freq_lex": 629,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קום، فعل مضارع مع واو التتابع، الضمير هي، <ثم قامَت>"
+        "gloss_id": 1156609,
+        "voice": "qal",
+        "_gloss": "فعل مضارع مع واو التتابع، الضمير هي، <ثم قامَت>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30516,9 +30616,11 @@
       "pdp": "subs",
       "freq_lex": 56,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الضيغة المشكلة هي בְּטֶרֶום. حرف الجر בְּ + الاسم טֶרֶם، <قَبْلَ أَنْ>"
+        "voice": "NA",
+        "_gloss": "<قَبْلَ أَنْ>",
+        "_markdown": "الضيغة المشكلة هي [[בְּטֶרֶם]]. حرف الجر [[בְּ]] + الاسم [[טֶרֶם]] "
       },
       "qere_utf8": "טֶ֛רֶם",
       "kq_hybrid_utf8": "טֶ֛רֶום",
@@ -30544,8 +30646,9 @@
       "freq_lex": 49,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر נכר، مضارع، الوزن هفعيل، الضمير هو، <يَقْدِرَ عَلَى مَعْرِفَةِ "
+        "gloss_id": 1157769,
+        "voice": "hif",
+        "_gloss": "مضارع، الوزن هفعيل، الضمير هو، <يَقْدِرَ عَلَى مَعْرِفَةِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30689,9 +30792,9 @@
       "pdp": "nega",
       "freq_lex": 726,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "لا"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30717,8 +30820,9 @@
       "freq_lex": 944,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ידע، وزن نفعل، مضارع، <يُعْلَمْ>"
+        "gloss_id": 1157771,
+        "voice": "nif",
+        "_gloss": "وزن نفعل، مضارع، <يُعْلَمْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -30811,7 +30915,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -30932,8 +31040,9 @@
       "freq_lex": 34,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יהב، فعل أمر، الضمير أنتِ، <هَاتِي>"
+        "gloss_id": 1157773,
+        "voice": "qal",
+        "_gloss": "فعل أمر، الضمير أنتِ، <هَاتِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -31078,8 +31187,9 @@
       "freq_lex": 65,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو العطف، الجذر אחז، فعل أمر، الضمير أنتِ، <وَأَمْسِكِي>"
+        "gloss_id": 1157775,
+        "voice": "qal",
+        "_gloss": "واو العطف، فعل أمر، الضمير أنتِ، <وَأَمْسِكِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -31151,8 +31261,9 @@
       "freq_lex": 65,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر אחז، مضارع مع واو التتابع، الضمير هي، <َأَمْسَكَتْ>"
+        "gloss_id": 1157776,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، الضمير هي، <َأَمْسَكَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -31224,8 +31335,9 @@
       "freq_lex": 53,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر מדד، مضارع مع واو التتابع، وزن قَل، <فَاكْتَالَ>"
+        "gloss_id": 1157777,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، <فَاكْتَالَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -31328,8 +31440,9 @@
       "freq_lex": 85,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁית، مضارع مع واو التتابع، وزن قَل، <وَوَضَعَهَا>"
+        "gloss_id": 1157780,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، <وَوَضَعَهَا>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32215,9 +32328,9 @@
       "pdp": "nega",
       "freq_lex": 726,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "لا"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32485,8 +32598,9 @@
       "freq_lex": 944,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ידע، مضارع، الضمير أنتِ، <تَعْلَمِي>"
+        "gloss_id": 1157782,
+        "voice": "qal",
+        "_gloss": "مضارع، الضمير أنتِ، <تَعْلَمِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32539,8 +32653,9 @@
       "freq_lex": 434,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر נפל، مضارع، وزن قَل، <يَقَعُ>"
+        "gloss_id": 1157784,
+        "voice": "qal",
+        "_gloss": "مضارع، وزن قَل، <يَقَعُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32635,8 +32750,9 @@
       "freq_lex": 41,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁקט، مضارع، وزن قَل، <يَهْدَأُ>"
+        "gloss_id": 1157785,
+        "voice": "qal",
+        "_gloss": "مضارع، وزن قَل، <يَهْدَأُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -32754,8 +32870,9 @@
       "freq_lex": 206,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر כלה، ماضي، وزن فِعّيل، <يُتَمِّمَ>"
+        "gloss_id": 1157786,
+        "voice": "piel",
+        "_gloss": "ماضي، وزن فِعّيل، <يُتَمِّمَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33142,8 +33259,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "آل التعريف + الجذر גאל ، اسم فاعل، مذكر مفرد، <الولي>"
+        "gloss_id": 1157789,
+        "voice": "qal",
+        "_gloss": "آل التعريف، اسم فاعل، مذكر مفرد، <الولي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33315,8 +33433,9 @@
       "freq_lex": 297,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر סור، فعل امر (شكل مُطوَل)، المضير أنتض <مِلْ>"
+        "gloss_id": 1157791,
+        "voice": "qal",
+        "_gloss": "فعل امر (شكل مُطوَل)، المضير أنتض <مِلْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33469,8 +33588,9 @@
       "freq_lex": 297,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر סור، وزن قَل، مضارع مع واو التتابع، <فَمَالَ>"
+        "gloss_id": 1157795,
+        "voice": "qal",
+        "_gloss": "وزن قَل، مضارع مع واو التتابع، <فَمَالَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33664,9 +33784,9 @@
       "pdp": "subs",
       "freq_lex": 181,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "حرف الجر מִן + الاسم זְקָנִים يصيغة المُضاف, <مِنْ شُيُوخِ>"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -33971,9 +34091,9 @@
       "pdp": "subs",
       "freq_lex": 103,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "للولي"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34047,7 +34167,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34117,9 +34241,11 @@
       "pdp": "subs",
       "freq_lex": 629,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الاسم אָח بصيغة المفرد + ضمير المتصل نحن"
+        "voice": "NA",
+        "_gloss": "لأخينا",
+        "_markdown": "حرف الجر [[לְ]] + الاسم [[אָח]] بصيغة المفرد + ضمير المتصل نحن"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34166,7 +34292,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34191,8 +34321,9 @@
       "freq_lex": 80,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر מכר، ماضي، الضمير هي، <باعَت>، بل يقول الفاندَيك، <تَبِيعُ>"
+        "gloss_id": 1157799,
+        "voice": "qal",
+        "_gloss": "ماضي، الضمير هي، <باعَت>، بل يقول الفاندَيك، <تَبِيعُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34216,7 +34347,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34308,7 +34443,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34331,7 +34470,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 180,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34377,7 +34520,11 @@
       "ps": "p1",
       "pdp": "prps",
       "freq_lex": 874,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -34425,8 +34572,9 @@
       "freq_lex": 188,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذرגלה، مضارع، ضمير الفاعل أنا، <اكشف> يترجم الفاندَيك هذه الكلمة والكلمة التالي، <أُخْبِرُكَ>"
+        "gloss_id": 1157800,
+        "voice": "qal",
+        "_gloss": "مضارع، ضمير الفاعل أنا، <اكشف> يترجم الفاندَيك هذه الكلمة والكلمة التالي، <أُخْبِرُكَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34525,8 +34673,9 @@
       "freq_lex": 78,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קנה، وزن قَل، فعل أمر، <اشْتَرِ>"
+        "gloss_id": 1157802,
+        "voice": "qal",
+        "_gloss": "وزن قَل، فعل أمر، <اشْتَرِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34674,9 +34823,9 @@
       "pdp": "subs",
       "freq_lex": 181,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "الاسم זְקָנִים بصيغة المُضاف، <شُيُوخِ>"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34898,8 +35047,9 @@
       "freq_lex": 370,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر נגד، وزن هفعيل، فعل أمر بشكله المُطول، <فَأَخْبِرْ>"
+        "gloss_id": 1157809,
+        "voice": "hif",
+        "_gloss": "وزن هفعيل، فعل أمر بشكله المُطول، <فَأَخْبِرْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -34969,11 +35119,7 @@
       "ps": "p1",
       "pdp": "verb",
       "freq_lex": 944,
-      "gloss": {
-        "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الضيغة المشكلة هي וְאֵדְעָ، من الجذر ידע، مضارع والضمير أنا، <لأَعْلَمَ> أو لكي أعلم"
-      },
+      "gloss": null,
       "qere_utf8": "אֵֽדְעָה֙",
       "kq_hybrid_utf8": "אֵֽדְעָ֙",
       "prs_gn": "NA",
@@ -35097,9 +35243,11 @@
       "pdp": "verb",
       "freq_lex": 103,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر גאל، وزن قَل، مصدر مضاف، <ليفدي>، بل يقول الفاندَيك، <يَفُكُّ> "
+        "voice": "qal",
+        "_gloss": " <ليفدي> بل يقول الفاندَيك،<يَفُكُّ> ",
+        "_markdown": "حرف الجر [[לְ]] وزن قَل، مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35421,8 +35569,9 @@
       "freq_lex": 78,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קנה، مصدر مضاف، وزن قَل، مع ضمير متصل، <تَشْتَرِي>"
+        "gloss_id": 1157817,
+        "voice": "qal",
+        "_gloss": "مصدر مضاف، وزن قَل، مع ضمير متصل، <تَشْتَرِي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35469,7 +35618,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 320,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35538,7 +35691,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35634,7 +35791,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35785,9 +35946,11 @@
       "pdp": "verb",
       "freq_lex": 78,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الضيغة المشكلة هي קָנִיתָי، الجذر קנה، ماضي، الضمير أنتَ، <اشترَيتَ>، بل يقول الفاندَيك، <تَشْتَرِي>"
+        "voice": "qal",
+        "_gloss": " <اشترَيتَ> بل يقول الفاندَيك <تَشْتَرِي>",
+        "_markdown": "الضيغة المشكلة هي [[קָנִיתָי]]، ماضي، الضمير أنتَ، "
       },
       "qere_utf8": "קָנִ֔יתָה",
       "kq_hybrid_utf8": "קָנִ֔יתָי",
@@ -35835,9 +35998,11 @@
       "pdp": "verb",
       "freq_lex": 629,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر קום، وزن هفعيل، مصدر مضاف، <لِتُقِيمَ>"
+        "voice": "hif",
+        "_gloss": "<لِتُقِيمَ>",
+        "_markdown": "حرف الجر [[לְ]]  وزن هفعيل، مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -35861,7 +36026,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -35958,9 +36127,11 @@
       "pdp": "subs",
       "freq_lex": 224,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم נַחֲלָה مع ضمير متصل هو، <مِيرَاثِهِ>"
+        "voice": "NA",
+        "_gloss": "<مِيرَاثِهِ>",
+        "_markdown": "الاسم [[נַחֲלָה]] مع ضمير متصل هو"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36055,8 +36226,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "آل التعريف + الجذر גאל ، اسم فاعل، مذكر مفرد، <الولي>"
+        "gloss_id": 1157789,
+        "voice": "qal",
+        "_gloss": "آل التعريف، اسم فاعل، مذكر مفرد، <الولي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36105,8 +36277,9 @@
       "freq_lex": 193,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יכל، مضارع، المضير هو، الوزن قَل، <أَقْدِرُ>"
+        "gloss_id": 1157825,
+        "voice": "qal",
+        "_gloss": "مضارع، المضير هو، الوزن قَل، <أَقْدِرُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36154,9 +36327,11 @@
       "pdp": "verb",
       "freq_lex": 103,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الصيغة المشكلة هي לִגְאָול، حرف الجر לְ + الجذر גאל، مصدر مضاف، <أَنْ أَفُكَّ>"
+        "voice": "qal",
+        "_gloss": "<أَنْ أَفُكَّ>",
+        "_markdown": "الصيغة المشكلة هي [[לִגְאָול]]، حرف الجر [[לְ]]، مصدر مضاف، "
       },
       "qere_utf8": "גְאָל",
       "kq_hybrid_utf8": "גְאָול־",
@@ -36232,8 +36407,9 @@
       "freq_lex": 145,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁחת، مضارع، وزن هفعيل، الضمير أنا، <أُفْسِدَ>"
+        "gloss_id": 1157828,
+        "voice": "hif",
+        "_gloss": "مضارع، وزن هفعيل، الضمير أنا، <أُفْسِدَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36281,9 +36457,11 @@
       "pdp": "subs",
       "freq_lex": 224,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم נַחֲלָה مع ضمير متصل أنا، <مِيرَاثِي>"
+        "voice": "NA",
+        "_gloss": "<مِيرَاثِهِ>",
+        "_markdown": "الاسم [[נַחֲלָה]] مع ضمير متصل هو"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36408,9 +36586,11 @@
       "pdp": "subs",
       "freq_lex": 14,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم גְּאֻלָּה مع ضمير متصل أنا، <فِكَاكِي> أو <فِدائي>"
+        "voice": "NA",
+        "_gloss": "<فِكَاكِي> أو <فِدائي>",
+        "_markdown": "الاسم [[גְּאֻלָּה]] مع ضمير متصل أنا "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36482,8 +36662,9 @@
       "freq_lex": 193,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر יכל، مضارع، المضير هو، الوزن قَل، <أَقْدِرُ>"
+        "gloss_id": 1157831,
+        "voice": "qal",
+        "_gloss": "مضارع، المضير هو، الوزن قَل، <أَقْدِرُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36746,9 +36927,11 @@
       "pdp": "subs",
       "freq_lex": 14,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "آل التعريف + الاسم גְּאוּלָּה، <الْعَادَةُ> أو <الفداء>"
+        "voice": "NA",
+        "_gloss": "<الْعَادَةُ> أو <الفداء>",
+        "_markdown": "آل التعريف + الاسم [[גְּאוּלָּה]] "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36892,9 +37075,11 @@
       "pdp": "verb",
       "freq_lex": 629,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ، الجذر קום، وزن فعّيل، مصدر مضاف، <لأَجْلِ إِثْبَاتِ>"
+        "voice": "piel",
+        "_gloss": "<لأَجْلِ إِثْبَاتِ>",
+        "_markdown": "حرف الجر [[לְ]]،  وزن فعّيل، مصدر مضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -36966,8 +37151,9 @@
       "freq_lex": 25,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁלף، ماضي، <خَلَعَ>، بل يقول الفاندَيك، <يَخْلَعُ>"
+        "gloss_id": 1157835,
+        "voice": "qal",
+        "_gloss": "ماضي، <خَلَعَ>، بل يقول الفاندَيك، <يَخْلَعُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37111,9 +37297,11 @@
       "pdp": "subs",
       "freq_lex": 187,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الاسم רֵעַ مع ضمير متصل هو، <لِصَاحِبِهِ>"
+        "voice": "NA",
+        "_gloss": "<لِصَاحِبِهِ>",
+        "_markdown": "حرف الجر [[לְ]] + الاسم [[רֵעַ]] مع ضمير متصل هو "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37354,8 +37542,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "آل التعريف + الجذر גאל ، اسم فاعل، مذكر مفرد، <الولي>"
+        "gloss_id": 1157789,
+        "voice": "qal",
+        "_gloss": "آل التعريف، اسم فاعل، مذكر مفرد، <الولي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37431,8 +37620,9 @@
       "freq_lex": 78,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קנה، فعل الأمر، الضمير أنتَ، <اشْتَرِ>"
+        "gloss_id": 1157839,
+        "voice": "qal",
+        "_gloss": "فعل الأمر، الضمير أنتَ، <اشْتَرِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37504,8 +37694,9 @@
       "freq_lex": 25,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁלף، مضارع مع واو التتابع، وزن قَل، <وَخَلَعَ>"
+        "gloss_id": 1157840,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، <وَخَلَعَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37676,9 +37867,9 @@
       "pdp": "subs",
       "freq_lex": 181,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + آل التعريف + الاسم זְקֵנִים، <لِلشُّيُوخِ>"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -37919,8 +38110,9 @@
       "freq_lex": 78,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קנה، ماضي، الضمير أنا، <قَدِ اشْتَرَيْتُ>"
+        "gloss_id": 1157845,
+        "voice": "qal",
+        "_gloss": "ماضي، الضمير أنا، <قَدِ اشْتَرَيْتُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38036,7 +38228,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 6,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38174,7 +38370,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 3,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38220,7 +38420,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38289,7 +38493,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38335,7 +38543,11 @@
       "ps": "NA",
       "pdp": "advb",
       "freq_lex": 769,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38381,7 +38593,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38455,9 +38671,11 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم אִשָּׁה بصيغة المضاف"
+        "voice": "NA",
+        "_gloss": "<امرأة>",
+        "_markdown": "هذه الكلمة هي الاسم [[אִשָּׁה]] بصيغة المضاف"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38481,7 +38699,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 4,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38506,8 +38728,9 @@
       "freq_lex": 78,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קנה، ماضي، الضمير أنا، <قَدِ اشْتَرَيْتُ>"
+        "gloss_id": 1157845,
+        "voice": "qal",
+        "_gloss": "ماضي، الضمير أنا، <قَدِ اشْتَرَيْتُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38577,7 +38800,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38624,9 +38851,11 @@
       "pdp": "verb",
       "freq_lex": 629,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر לְ + الجذر קום، وزن هفعيل، مصدر مضاف، <لِتُقِيمَ>"
+        "voice": "hif",
+        "_gloss": "<لِتُقِيمَ>",
+        "_markdown": "حرف الجر [[לְ]]  وزن هفعيل، مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38650,7 +38879,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38748,8 +38981,9 @@
       "freq_lex": 224,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الاسم נַחֲלָה مع ضمير متصل هو، <مِيرَاثِهِ>"
+        "gloss_id": 1157824,
+        "voice": "NA",
+        "_gloss": ""
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38821,8 +39055,9 @@
       "freq_lex": 288,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر כרת، مضارع، وزن نفعل، <يَنْقَرِضُ>"
+        "gloss_id": 1157846,
+        "voice": "nif",
+        "_gloss": "مضارع، وزن نفعل، <يَنْقَرِضُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -38846,7 +39081,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -38966,9 +39205,11 @@
       "pdp": "subs",
       "freq_lex": 629,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم אָחִים مع ضمير متصل هو"
+        "voice": "NA",
+        "_gloss": "إخوانِهِ",
+        "_markdown": "الاسم [[אָחִים]] مع ضمير متصل هو"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -39065,7 +39306,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 401,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -39446,9 +39691,9 @@
       "pdp": "subs",
       "freq_lex": 181,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "الشيوخ"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -39591,7 +39836,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40123,8 +40372,9 @@
       "freq_lex": 732,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو العطف + الجذر קרא، قَل، فعل أمر، <وَكُنْ ذَا...>"
+        "gloss_id": 1157855,
+        "voice": "qal",
+        "_gloss": "واو العطف، قَل، فعل أمر، <وَكُنْ ذَا...>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -40148,7 +40398,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40194,7 +40448,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 41,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40459,7 +40717,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 819,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40870,7 +41132,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 12,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -40985,7 +41251,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41221,8 +41491,9 @@
       "freq_lex": 492,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ילד، مضارع مع واو التتابع، وزن قَل، الضير هي، <فَوَلَدَتْ>"
+        "gloss_id": 1157861,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، الضير هي، <فَوَلَدَتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41338,7 +41609,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 781,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41384,7 +41659,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -41409,8 +41688,9 @@
       "freq_lex": 327,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ברך، اسم مفعول، <مُبَارَكٌ>"
+        "gloss_id": 1156952,
+        "voice": "qal",
+        "_gloss": "اسم مفعول، <مُبَارَكٌ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41505,8 +41785,9 @@
       "freq_lex": 71,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁבת، ماضي، وزن هفعيل، الضمير هو، <يُعْدِمْ>"
+        "gloss_id": 1157862,
+        "voice": "hif",
+        "_gloss": "ماضي، وزن هفعيل، الضمير هو، <يُعْدِمْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41555,8 +41836,9 @@
       "freq_lex": 103,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر גאל، اسم فاعل، <وَلي>"
+        "gloss_id": 1157742,
+        "voice": "qal",
+        "_gloss": "اسم فاعل، <وَلي>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41651,8 +41933,9 @@
       "freq_lex": 732,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "واو العطف + الجذر קרא، مضارع، وزن نفعل، <لِكَيْ يُدْعَى>"
+        "gloss_id": 1157863,
+        "voice": "nif",
+        "_gloss": "واو العطف، مضارع، وزن نفعل، <لِكَيْ يُدْعَى>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41676,7 +41959,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -41934,9 +42221,11 @@
       "pdp": "verb",
       "freq_lex": 38,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "واو العطف، حرف الجر לְ + الجذر כול أو כלכל، وزن فعّيل، مصدر مضاف، <وَإِعَالَةِ>"
+        "voice": "piel",
+        "_gloss": "<وَإِعَالَةِ>",
+        "_markdown": "واو العطف، حرف الجر [[לְ]] + الجذر כול أو כלכל، وزن فعّيل، مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -41984,9 +42273,11 @@
       "pdp": "subs",
       "freq_lex": 19,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "الاسم שֵׂיבָה مع ضمير متصل أنتِ، <شَيْبَتِكِ>"
+        "voice": "NA",
+        "_gloss": "<شَيْبَتِكِ>",
+        "_markdown": "الاسم [[שֵׂיבָה]] مع ضمير متصل أنتِ، "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42085,8 +42376,9 @@
       "freq_lex": 211,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر אהב، ماضي، ضمير الفاعل هي مع ضمير المفعول به أنتِ ، <أَحَبَّتْكِ>"
+        "gloss_id": 1157868,
+        "voice": "qal",
+        "_gloss": "ماضي، ضمير الفاعل هي مع ضمير المفعول به أنتِ ، <أَحَبَّتْكِ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42112,8 +42404,9 @@
       "freq_lex": 492,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ילד، ماضي، وزن قَل، ضمير الفاعل هي مع ضمير المفعول به هو، <قَدْ وَلَدَتْهُ>"
+        "gloss_id": 1157869,
+        "voice": "qal",
+        "_gloss": "ماضي، وزن قَل، ضمير الفاعل هي مع ضمير المفعول به هو، <قَدْ وَلَدَتْهُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42160,7 +42453,11 @@
       "ps": "p3",
       "pdp": "prps",
       "freq_lex": 485,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42257,9 +42554,9 @@
       "pdp": "subs",
       "freq_lex": 490,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "حرف الجر מִן + العدد שִׁבְעָה"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42356,7 +42653,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42477,8 +42778,9 @@
       "freq_lex": 85,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر שׁית، مضارع مع واو التتابع، وزن قَل، ضمير الفاعل هي مع ضمير المفعول به هو ، <وَوَضَعَتْهُ>"
+        "gloss_id": 1157872,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، ضمير الفاعل هي مع ضمير المفعول به هو ، <وَوَضَعَتْهُ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42526,9 +42828,11 @@
       "pdp": "subs",
       "freq_lex": 38,
       "gloss": {
-        "type": "word",
+        "type": "wordplusmarkdown",
         "gloss_id": -1,
-        "_gloss": "حرف الجر בְּ + الاسم חֵיק، <فِي حِضْنِهَا>"
+        "voice": "NA",
+        "_gloss": "<فِي حِضْنِهَا>",
+        "_markdown": "حرف الجر [[בְּ]] + الاسم [[חֵיק]] "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42696,8 +43000,9 @@
       "freq_lex": 732,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קרא، مضارع مع واو التتابع، وزن قَل، الضمير هُنَّ، <وَسَمَّتْ>"
+        "gloss_id": 1157875,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، الضمير هُنَّ، <وَسَمَّتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42794,7 +43099,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42865,8 +43174,9 @@
       "freq_lex": 492,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ילד، وزن فُعَّل، ماضي، <قَدْ وُلِدَ>"
+        "gloss_id": 1157877,
+        "voice": "pual",
+        "_gloss": "وزن فُعَّل، ماضي، <قَدْ وُلِدَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42936,7 +43246,11 @@
       "ps": "NA",
       "pdp": "nmpr",
       "freq_lex": 21,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "NA",
@@ -42984,8 +43298,9 @@
       "freq_lex": 732,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر קרא، مضارع مع واو التتابع، وزن قَل، الضمير هُنَّ، <وَسَمَّتْ>"
+        "gloss_id": 1157878,
+        "voice": "qal",
+        "_gloss": "مضارع مع واو التتابع، وزن قَل، الضمير هُنَّ، <وَسَمَّتْ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43009,7 +43324,11 @@
       "ps": "NA",
       "pdp": "subs",
       "freq_lex": 864,
-      "gloss": null,
+      "gloss": {
+        "type": "null",
+        "gloss_id": -1,
+        "voice": "NA"
+      },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
       "prs_gn": "m",
@@ -43311,8 +43630,9 @@
       "freq_lex": 492,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ילד، ماضي، وزن هفعيل، <جعل تلد> أي، يقول الفاندَيك، <وَلَدَ>"
+        "gloss_id": 1157883,
+        "voice": "hif",
+        "_gloss": "ماضي، وزن هفعيل، <جعل تلد> أي، يقول الفاندَيك، <وَلَدَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -43438,8 +43758,9 @@
       "freq_lex": 492,
       "gloss": {
         "type": "word",
-        "gloss_id": -1,
-        "_gloss": "الجذر ילד، ماضي، وزن هفعيل، <جعل تلد> أي، يقول الفاندَيك، <وَلَدَ>"
+        "gloss_id": 1157883,
+        "voice": "hif",
+        "_gloss": "ماضي، وزن هفعيل، <جعل تلد> أي، يقول الفاندَيك، <وَلَدَ>"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
