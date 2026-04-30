@@ -35880,9 +35880,9 @@
       "pdp": "subs",
       "freq_lex": 781,
       "gloss": {
-        "type": "word",
+        "type": "null",
         "gloss_id": -1,
-        "_gloss": "الاسم אִשָּׁה بصيغة المضاف"
+        "voice": "NA"
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
@@ -42234,10 +42234,10 @@
       "freq_lex": 38,
       "gloss": {
         "type": "wordplusmarkdown",
-        "gloss_id": -1,
+        "gloss_id": 1158192,
         "voice": "piel",
         "_gloss": "<وَإِعَالَةِ>",
-        "_markdown": "واو العطف، حرف الجر [[לְ]] + الجذر כול أو כלכל، وزن فعّيل، مصدر مضاف "
+        "_markdown": "واو العطف، حرف الجر [[לְ]] + الجذر [[כול]] أو [[כלכל]]، وزن فعّيل، مصدر مضاف "
       },
       "qere_utf8": "",
       "kq_hybrid_utf8": "",
